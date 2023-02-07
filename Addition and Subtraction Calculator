@@ -1,5 +1,5 @@
 # Munyoki Brian Tovo - Ene211-0001/2020
-
+# python
 def calculate():
     while True:
         Number1 = float(input("Enter first number: "))
